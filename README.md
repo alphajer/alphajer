@@ -44,7 +44,6 @@ I aim to build scalable projects, strengthen my technical depth, and pursue inte
 ---
 
 ⭐️ Consistently building and improving.
-## Hi there 👋
 
 <!--
 **alphajer/alphajer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
