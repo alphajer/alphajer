@@ -14,7 +14,7 @@ I aim to build scalable projects, strengthen my technical depth, and pursue inte
 
 ## 📈 Current Focus
 
-* Improving English (A2 → B2)
+* Improving English (B1 → C1)
 * Advancing in modern frontend frameworks
 * Strengthening backend and system design fundamentals
 
