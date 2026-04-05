@@ -39,7 +39,7 @@ I aim to build scalable projects, strengthen my technical depth, and pursue inte
 
 ## 📫 Contact
 
-* (You can add your email / LinkedIn here)
+* (mchtpmk083@gmail.com / +905510608065)
 
 ---
 
