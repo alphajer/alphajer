@@ -1,4 +1,4 @@
-# Hi there, I'm alphajer 👋
+# Hi there, I'm MÜCAHİT 👋
 
 ## 🚀 About Me
 
